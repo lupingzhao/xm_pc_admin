@@ -1,0 +1,27 @@
+.about_left {
+  .el-sub-menu .el-menu-item {
+    min-width: 199px !important;
+  }
+}
+
+.commHead {
+  .el-input {
+    width: 30%;
+  }
+}
+
+.categ {
+  .el-input__inner {
+    width: 300px !important;
+  }
+
+  .el-tree-node {
+    width: 500px !important;
+  }
+}
+
+.about-tab {
+  .el-tabs__content {
+    overflow: visible !important;
+  }
+}
